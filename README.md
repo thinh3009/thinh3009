@@ -2,8 +2,8 @@
 * I am currently a student at Ho Chi Minh City University of Transport 🛥
 * Currently I am a 3rd year student majoring in information technology 👨‍🎓
 ## After 3 years of studying at university, I have learned and learned some programming skills along with some other soft skills.
-** Some skill of programming I have learned in school is: Python, C++, HTML, CSS, JS
-** Database: MSSQL, MySql
+* Some skill of programming I have learned in school is: Python, C++, HTML, CSS, JS
+* Database: MSSQL, MySql
 
 <!--
 **thinh3009/thinh3009** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
