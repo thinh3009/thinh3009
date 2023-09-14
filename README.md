@@ -4,6 +4,7 @@
 ## After 3 years of studying at university, I have learned and learned some programming skills along with some other soft skills.
 * Some skill of programming I have learned in school is: Python, C++, HTML, CSS, JS
 * Database: MSSQL, MySql
+* Sort Skills: communication, teamwork, organizing,...
 
 <!--
 **thinh3009/thinh3009** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
