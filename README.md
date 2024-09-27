@@ -1,7 +1,7 @@
 # Welcome to my GitHub, I am glad to see you here 👋
 * I am currently a student at Ho Chi Minh City University of Transport 🛥
-* Currently I am a 3rd year student majoring in information technology 👨‍🎓
-## After 3 years of studying at university, I have learned and learned some programming skills along with some other soft skills.
+* Currently I am a finnal year student majoring in information technology 👨‍🎓
+## After 4 years of studying at university, I have learned and learned some programming skills along with some other soft skills.
 * Some skill of programming I have learned in school is: Python, C++, HTML, CSS, JS
 * Database: MSSQL, MySql
 * Sort Skills: communication, teamwork, organizing,...
